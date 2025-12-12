@@ -22,6 +22,7 @@ GitHub allows me to:
 - build full evidence repositories for real cases (e.g., II K 70/24),
 - teach others how technical and legal inquiry complement one another.
 
+
 ---
 
 ## 🎓 GitHub Education – How I Use It
