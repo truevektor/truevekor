@@ -96,6 +96,26 @@ A technical repository documenting:
 
 ---
 
+### `evidence-map` – Visual Evidence Analysis Framework
+A systematic approach to mapping, connecting, and analyzing evidence in complex cases:
+
+- evidence relationship modeling (causal, temporal, contextual links),
+- visual graph representation of evidence networks,
+- automated conflict detection between evidence items,
+- timeline reconstruction from fragmented data,
+- provenance tracking and metadata correlation,
+- export to formats suitable for legal briefs (PDF, Markdown, interactive HTML).
+
+**Methodology includes:**
+- entity extraction (persons, locations, times, events),
+- cross-reference validation,
+- inconsistency highlighting,
+- chain-of-custody visualization.
+
+**Intended use:** complex case analysis, prosecutorial planning, defense discovery review, academic case studies in evidence theory.
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages & Tools**
@@ -179,6 +199,23 @@ The following exercises are designed for students, educators, and researchers wh
 2. Configure a daily stats updater.  
 3. Add a Python script generating a PDF summary.  
 4. Publish results to the repository’s README.
+
+### **Lab 6 — Evidence Mapping and Relationship Analysis**
+**Objective:** Build and analyze an evidence map for a multi-source case.  
+**Tasks:**
+1. Clone the `evidence-map` repository.  
+2. Load sample evidence items (documents, audio, metadata, timestamps).  
+3. Define relationships between evidence pieces:
+   - temporal (before/after/simultaneous),
+   - causal (leads to, contradicts, supports),
+   - referential (mentions, describes, documents).  
+4. Generate a visual graph representation of the evidence network.  
+5. Identify inconsistencies or gaps in the evidence chain.  
+6. Export the map as a structured report for legal review.  
+7. Discuss how evidence mapping supports:
+   - case theory development,
+   - cross-examination preparation,
+   - identification of missing evidence.
 
 ---
 
